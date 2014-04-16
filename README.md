@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kazemakase/repotools-template-py.svg?branch=master)](https://travis-ci.org/kazemakase/repotools-template-py)
+
 repotools-template-py
 =====================
 
