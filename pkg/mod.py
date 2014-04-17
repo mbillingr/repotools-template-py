@@ -1,7 +1,7 @@
 """ This is a module
 """
 
-class Number:
+class Number(object):
     """ This is a class
     """
     def __init__(self, nr=0):
