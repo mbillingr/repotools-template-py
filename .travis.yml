@@ -5,4 +5,5 @@ env:
   - PYTHON=3
 
 script:
+  - python tests/test_execution
   - nosetests
